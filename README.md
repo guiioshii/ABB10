@@ -37,7 +37,9 @@ Este projeto inclui:
 ![image](https://github.com/guiioshii/ABB10/assets/105391453/72f8f74f-7c37-4fc0-afc5-4002cef77bb1)
 
   Após inserir um valor, ele irá retornar como true or false para o dado número.
-  
+
+  ![image](https://github.com/guiioshii/ABB10/assets/105391453/e3330164-3af4-4578-8c54-c8e561c4471e)
+
 - Impressão da árvore no formato horizontal.
 
   ![image](https://github.com/guiioshii/ABB10/assets/105391453/efc429fa-e5c4-49d5-a92f-bb751b3ba7b2)
