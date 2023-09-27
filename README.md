@@ -27,6 +27,7 @@ Este projeto inclui:
 - Realiza a verificação da existencia de um Node da árvore;
   (Para procurar um Node específico da árvore, informar o valor desejado no "int valor = X")
   ![image](https://github.com/guiioshii/ABB10/assets/105391453/957eae53-cc95-4a6f-a31e-13d42b348ed1)
+  
   Após inserir um valor, ele irá retornar como true or false para o dado número.
   
 - Impressão da árvore no formato horizontal.
