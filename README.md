@@ -23,14 +23,16 @@ Este projeto inclui:
   (Para excluir um Node na árvore, utilizar o arvore.deltar("Inserir numero desejado")
     Após excluir um valor, a árvore irá se ajustar conforme as régras de uma ABB.
 
- ![image](https://github.com/guiioshii/ABB10/assets/105391453/d443b604-3fa0-41ff-adf4-a2e0210d3056)
+ -![image](https://github.com/guiioshii/ABB10/assets/105391453/d443b604-3fa0-41ff-adf4-a2e0210d3056)
 
 - Realiza a verificação da existencia de um Node da árvore;
   (Para procurar um Node específico da árvore, informar o valor desejado no "int valor = X")
-    Após inserir um valor, ele irá retornar como true or false para o dado número.
-  ![image](https://github.com/guiioshii/ABB10/assets/105391453/957eae53-cc95-4a6f-a31e-13d42b348ed1)
+    Após inserir um valor, ele irá retornar como true or false para o dado número
+  
+-![image](https://github.com/guiioshii/ABB10/assets/105391453/957eae53-cc95-4a6f-a31e-13d42b348ed1)
   
   Após inserir um valor, ele irá retornar como true or false para o dado número.
   
 - Impressão da árvore no formato horizontal.
-  ![image](https://github.com/guiioshii/ABB10/assets/105391453/b9112b59-facd-42b6-9ca8-374307d3a34e)
+
+-![image](https://github.com/guiioshii/ABB10/assets/105391453/b9112b59-facd-42b6-9ca8-374307d3a34e)
