@@ -4,11 +4,11 @@ Trabalho da materia de Resolução de problemas estruturados em Computação pel
 
 Desenvolvido pelos alunos
 
--Guilherme Ioshii.
+Guilherme Ioshii,
 
--Heron Ricardo.
+Heron Ricardo,
 
--Marcel Ottoni.
+Marcel Ottoni
 
 
 ## Descrição do projeto
