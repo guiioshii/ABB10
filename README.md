@@ -18,24 +18,28 @@ Uma Árvore Binária de Busca é uma estrutura de dados que organiza elementos e
 Este projeto inclui:
 
 - Implementação de uma ABB em Java.
+  
 - Inserção de Node na árvore.
   (Para inserir um Node na árvore, utilizar o arvore.add("Inserir numero desejado").
-  ![image](https://github.com/guiioshii/ABB10/assets/105391453/6db0ee62-0815-4c89-93a0-f8118c0ca1fa)
-  
+
+![image](https://github.com/guiioshii/ABB10/assets/105391453/6211d65c-69d4-4a5a-a00f-e2f519bd4115)
+
 - Exclusão de Node da árvore.
   (Para excluir um Node na árvore, utilizar o arvore.deltar("Inserir numero desejado")
     Após excluir um valor, a árvore irá se ajustar conforme as régras de uma ABB.
 
- -![image](https://github.com/guiioshii/ABB10/assets/105391453/d443b604-3fa0-41ff-adf4-a2e0210d3056)
+![image](https://github.com/guiioshii/ABB10/assets/105391453/e3f67c83-4c21-4760-9725-88546b82ef2b)
 
 - Realiza a verificação da existencia de um Node da árvore;
   (Para procurar um Node específico da árvore, informar o valor desejado no "int valor = X")
     Após inserir um valor, ele irá retornar como true or false para o dado número
   
--![image](https://github.com/guiioshii/ABB10/assets/105391453/957eae53-cc95-4a6f-a31e-13d42b348ed1)
-  
+![image](https://github.com/guiioshii/ABB10/assets/105391453/72f8f74f-7c37-4fc0-afc5-4002cef77bb1)
+
   Após inserir um valor, ele irá retornar como true or false para o dado número.
   
 - Impressão da árvore no formato horizontal.
 
--![image](https://github.com/guiioshii/ABB10/assets/105391453/b9112b59-facd-42b6-9ca8-374307d3a34e)
+  ![image](https://github.com/guiioshii/ABB10/assets/105391453/efc429fa-e5c4-49d5-a92f-bb751b3ba7b2)
+
+
